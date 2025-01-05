@@ -1,9 +1,9 @@
 {
-    "name": "nodejs-ci-pipeline",
+    "name": "nodejs-challenge",
     "version": "1.0.0",
-    "main": "app.js",
+    "main": "index.js",
     "scripts": {
-      "start": "node app.js",
+      "start": "node index.js",
       "lint": "eslint ."
     },
     "dependencies": {
